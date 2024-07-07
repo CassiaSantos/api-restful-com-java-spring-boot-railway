@@ -2,6 +2,7 @@
 API Restful do Bootcamp Java Back-end, uma parceria do Banco Santader e DIO
 
 ## Diagrama de Classe - UML
+```mermaid
 classDiagram
   class User {
     -String name
@@ -37,3 +38,4 @@ classDiagram
   User "1" *-- "N" Feature
   User "1" *-- "1" Card
   User "1" *-- "N" News
+```
