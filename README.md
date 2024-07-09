@@ -1,5 +1,5 @@
 # api-restful-com-java-spring-boot-railway
-API Restful do Bootcamp Java Back-end, uma parceria do Banco Santader e DIO
+Esse repositório armazena uma API Restful projetada com Java 22, Spring Boot e Railway. A mesma foi desenvolvida no Bootcamp Java Back-end, uma parceria do Banco Santader e Digitall Inovation One. Com ela, conseguimos cadastrar e recuperar dados usuário de um banco e sua conta.
 
 ## Diagrama de Classe - UML
 ```mermaid
